@@ -1,4 +1,4 @@
-#LinkedList
+# LinkedList
 
 linkedlist dosent initialize size of list
 can add null and duplicate values
